@@ -206,7 +206,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="879"></int>
+                  <int value="923"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -220,7 +220,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.24"></unicode>
+                <unicode value="0_127_2.25"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -231,7 +231,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Captura_de_pantalla_2025-03-05_170156.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-05_170156.png"></string>
+                  <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-05_170156.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5cba86c788d119d613172737b91bc920"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -260,7 +260,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="25"></int>
+           <int value="26"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -576,7 +576,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="880"></int>
+                     <int value="924"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -590,7 +590,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.48"></unicode>
+                   <unicode value="1_128_2.50"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="11">
                     <dictionary>
@@ -601,7 +601,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-05_172453.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-05_172453.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-05_172453.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5a86013775acd9b99798e08f76b79d5e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -628,7 +628,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="881"></int>
+                     <int value="925"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -642,7 +642,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.49"></unicode>
+                   <unicode value="1_128_2.51"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="12">
                     <dictionary>
@@ -653,7 +653,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-05_181532.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-05_181532.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-05_181532.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="77dc4b7e2f727167b0a9546cf37995b4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -682,7 +682,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="50"></int>
+              <int value="52"></int>
               <string role="key" value="parentNode"></string>
               <reference key="10"></reference>
              </dictionary>
@@ -2314,7 +2314,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="882"></int>
+                     <int value="926"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2328,7 +2328,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="18_127_2.122"></unicode>
+                   <unicode value="18_127_2.128"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
@@ -2339,7 +2339,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_002122.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_002122.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_002122.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="96f3aa76d99633324213176caa3bcbe3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2366,7 +2366,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="883"></int>
+                     <int value="927"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2380,7 +2380,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="18_127_2.123"></unicode>
+                   <unicode value="18_127_2.129"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -2391,7 +2391,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_002538.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_002538.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_002538.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9886f88e97c1b19b1c2598e6768e2b6a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2418,7 +2418,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="884"></int>
+                     <int value="928"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2432,7 +2432,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="18_127_2.124"></unicode>
+                   <unicode value="18_127_2.130"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="36">
                     <dictionary>
@@ -2443,7 +2443,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_005512.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_005512.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_005512.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="911860461fe8d48fdafbafbfc7e8cb34"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2470,7 +2470,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="885"></int>
+                     <int value="929"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2484,7 +2484,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="18_127_2.125"></unicode>
+                   <unicode value="18_127_2.131"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="37">
                     <dictionary>
@@ -2495,7 +2495,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_005552.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_005552.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_005552.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c3f5b95c58c1473be292186c82ef1fb2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2522,7 +2522,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="886"></int>
+                     <int value="930"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2536,7 +2536,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="18_127_2.126"></unicode>
+                   <unicode value="18_127_2.132"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="38">
                     <dictionary>
@@ -2547,7 +2547,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_005801.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_005801.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_005801.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c039e4329089e37de3184008030c4985"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2574,7 +2574,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="887"></int>
+                     <int value="931"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2588,7 +2588,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="18_127_2.127"></unicode>
+                   <unicode value="18_127_2.133"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="39">
                     <dictionary>
@@ -2599,7 +2599,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_005927.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_005927.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_005927.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="081d58671e1a6cb0de3b2b347d11834f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2628,7 +2628,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="128"></int>
+              <int value="134"></int>
               <string role="key" value="parentNode"></string>
               <reference key="29"></reference>
              </dictionary>
@@ -3711,7 +3711,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="908"></int>
+                     <int value="952"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3725,7 +3725,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="35_128_2.11"></unicode>
+                   <unicode value="35_128_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="55">
                     <dictionary>
@@ -3736,7 +3736,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-13_235602.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-13_235602.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-13_235602.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3d5e6c5b6d2bf665457e96b16c2a1584"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3765,7 +3765,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="12"></int>
+              <int value="13"></int>
               <string role="key" value="parentNode"></string>
               <reference key="52"></reference>
              </dictionary>
@@ -3944,7 +3944,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="909"></int>
+                     <int value="953"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3958,7 +3958,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="37_127_2.10"></unicode>
+                   <unicode value="37_127_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="58">
                     <dictionary>
@@ -3969,7 +3969,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-20_120818.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-20_120818.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-20_120818.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ee4e6327f80a95055f602642b758312c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3998,7 +3998,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="11"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
               <reference key="52"></reference>
              </dictionary>
@@ -4253,7 +4253,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <string role="key" value="_storageName"></string>
                    <string value="repartos.pdf"></string>
                    <string role="key" value="_userName"></string>
-                   <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\repartos.pdf"></string>
+                   <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\repartos.pdf"></string>
                    <string role="key" value="checksum"></string>
                    <string value="68847076afe57c5028e24024d1e8c7f0"></string>
                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4719,7 +4719,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="888"></int>
+                     <int value="932"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4733,7 +4733,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="21_127_2.19"></unicode>
+                   <unicode value="21_127_2.20"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="71">
                     <dictionary>
@@ -4744,7 +4744,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_055333.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_055333.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_055333.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="59722d6a77243a2d87701d0ccd434b39"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4773,7 +4773,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="20"></int>
+              <int value="21"></int>
               <string role="key" value="parentNode"></string>
               <reference key="70"></reference>
              </dictionary>
@@ -5062,7 +5062,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="878"></int>
+                     <int value="922"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5076,7 +5076,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.380"></unicode>
+                   <unicode value="25_131_2.400"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="77">
                     <dictionary>
@@ -5087,7 +5087,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="A.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\A.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\A.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="97ad10567670e64ac0590a95d617aeb1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5114,7 +5114,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="889"></int>
+                     <int value="933"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5128,7 +5128,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.381"></unicode>
+                   <unicode value="25_131_2.401"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="78">
                     <dictionary>
@@ -5139,7 +5139,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_071844.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_071844.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_071844.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d281e6e234a4749ead9c0a7da2afd54b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5166,7 +5166,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="890"></int>
+                     <int value="934"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5180,7 +5180,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.382"></unicode>
+                   <unicode value="25_131_2.402"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="79">
                     <dictionary>
@@ -5191,7 +5191,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_072108.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_072108.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_072108.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f79d1b54d14c336f7b19521c9bc3e89e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5218,7 +5218,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="891"></int>
+                     <int value="935"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5232,7 +5232,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.383"></unicode>
+                   <unicode value="25_131_2.403"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="80">
                     <dictionary>
@@ -5243,7 +5243,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_073950.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_073950.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_073950.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="aa43800146ca1c78ec899b3d68044a28"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5270,7 +5270,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="892"></int>
+                     <int value="936"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5284,7 +5284,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.384"></unicode>
+                   <unicode value="25_131_2.404"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="81">
                     <dictionary>
@@ -5295,7 +5295,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074002.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074002.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074002.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="52e8fdd95a2710fb67ac123caca6339b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5322,7 +5322,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="893"></int>
+                     <int value="937"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5336,7 +5336,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.385"></unicode>
+                   <unicode value="25_131_2.405"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="82">
                     <dictionary>
@@ -5347,7 +5347,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074039.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074039.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074039.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9a081d5ffce9427f40cad73d429d840d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5374,7 +5374,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="894"></int>
+                     <int value="938"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5388,7 +5388,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.386"></unicode>
+                   <unicode value="25_131_2.406"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="83">
                     <dictionary>
@@ -5399,7 +5399,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074055.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074055.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074055.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a5fd88f5164c481e4c09ef6b2f612674"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5426,7 +5426,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="895"></int>
+                     <int value="939"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5440,7 +5440,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.387"></unicode>
+                   <unicode value="25_131_2.407"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="84">
                     <dictionary>
@@ -5451,7 +5451,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074114.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074114.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074114.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="7626ca40114249a28477e86edae45d11"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5478,7 +5478,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="896"></int>
+                     <int value="940"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5492,7 +5492,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.388"></unicode>
+                   <unicode value="25_131_2.408"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="85">
                     <dictionary>
@@ -5503,7 +5503,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074606.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074606.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074606.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="14767309fe981d2017d1fa0bfd1db37c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5530,7 +5530,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="897"></int>
+                     <int value="941"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5544,7 +5544,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.389"></unicode>
+                   <unicode value="25_131_2.409"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="86">
                     <dictionary>
@@ -5555,7 +5555,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074622.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074622.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074622.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d8a76000f37250898ae1df4716127d0f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5582,7 +5582,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="898"></int>
+                     <int value="942"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5596,7 +5596,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.390"></unicode>
+                   <unicode value="25_131_2.410"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="87">
                     <dictionary>
@@ -5607,7 +5607,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074638.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074638.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074638.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5df228a147d1f14f9c60a54c4ef335dc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5634,7 +5634,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="899"></int>
+                     <int value="943"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5648,7 +5648,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.391"></unicode>
+                   <unicode value="25_131_2.411"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="88">
                     <dictionary>
@@ -5659,7 +5659,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074650.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074650.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074650.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3dcb8da48cf8c9e2b42573e74450981d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5686,7 +5686,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="900"></int>
+                     <int value="944"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5700,7 +5700,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.392"></unicode>
+                   <unicode value="25_131_2.412"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="89">
                     <dictionary>
@@ -5711,7 +5711,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074703.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074703.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074703.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="224a276e0672b77bdb5d8aa6b34fe82d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5738,7 +5738,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="901"></int>
+                     <int value="945"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5752,7 +5752,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.393"></unicode>
+                   <unicode value="25_131_2.413"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="90">
                     <dictionary>
@@ -5763,7 +5763,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_074740.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_074740.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_074740.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d1aa711e96880e51cadb9c41df8d4f57"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5790,7 +5790,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="902"></int>
+                     <int value="946"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5804,7 +5804,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.394"></unicode>
+                   <unicode value="25_131_2.414"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="91">
                     <dictionary>
@@ -5815,7 +5815,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_075043.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_075043.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_075043.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="729f40c99b33f921a62548ca11dfc6e5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5842,7 +5842,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="903"></int>
+                     <int value="947"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5856,7 +5856,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.395"></unicode>
+                   <unicode value="25_131_2.415"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="92">
                     <dictionary>
@@ -5867,7 +5867,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_075128.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_075128.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_075128.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c7cfe1b336ebdcd42b135e172c45d4ff"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5894,7 +5894,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="904"></int>
+                     <int value="948"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5908,7 +5908,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.396"></unicode>
+                   <unicode value="25_131_2.416"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="93">
                     <dictionary>
@@ -5919,7 +5919,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_075142.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_075142.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_075142.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="92057d0dcfb9d729fa2d62ab1f9d18a5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5946,7 +5946,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="905"></int>
+                     <int value="949"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5960,7 +5960,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.397"></unicode>
+                   <unicode value="25_131_2.417"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="94">
                     <dictionary>
@@ -5971,7 +5971,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_075251.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_075251.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_075251.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e887af4626cae9a94d6243c5200a8f41"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5998,7 +5998,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="906"></int>
+                     <int value="950"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6012,7 +6012,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.398"></unicode>
+                   <unicode value="25_131_2.418"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="95">
                     <dictionary>
@@ -6023,7 +6023,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_075304.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_075304.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_075304.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d154c0a8f26648ae82a2f81d99038624"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6050,7 +6050,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="907"></int>
+                     <int value="951"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6064,7 +6064,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_131_2.399"></unicode>
+                   <unicode value="25_131_2.419"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="96">
                     <dictionary>
@@ -6075,7 +6075,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-09_075316.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-09_075316.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-09_075316.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3c4b31c400d8103510f21af075026085"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6104,7 +6104,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="400"></int>
+              <int value="420"></int>
               <string role="key" value="parentNode"></string>
               <reference key="76"></reference>
              </dictionary>
@@ -6523,8 +6523,8 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;mathproblems-IDevice&quot;&gt;&lt;div class=&quot;mathproblems-feedback-game js-hidden&quot;&gt;&lt;/div&gt;&lt;div class=&quot;mathproblems-instructions mathproblems-instructions&quot;&gt;&lt;p&gt;Resoleu el següents problemes matemàtics, si tenen decimals, arrodoneix al segon.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;mathproblems-DataGame js-hidden&quot;&gt;%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DF%F3%E6%FA%C2%E0%FD%F0%FE%F7%FF%E1%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%F1%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%FD%FE%F7%E7%B2%F7%FE%B2%E1%F7%F5n%F7%FC%E6%E1%B2%E2%E0%FD%F0%FE%F7%FF%F7%E1%B2%FF%F3%E6%F7%FFr%E6%FB%F1%E1%BE%B2%E1%FB%B2%E6%F7%FC%F7%FC%B2%F6%F7%F1%FB%FF%F3%FE%E1%BE%B2%F3%E0%E0%FD%F6%FD%FC%F7%FB%EA%B2%F3%FE%B2%E1%F7%F5%FD%FC%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%C9%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%C7%FC%F3%B2%F1%F3%FF%FB%E1%F7%E6%F3%B2%E4%F3%FE%B2%E9%F3%EF%u203E%BC%B2%C1%FB%B2%F4%F7%FF%B2%E7%FC%F3%B2%E0%F7%F0%F3%FB%EA%F3%B2%F6%F7%FE%B2%E9%F0%EF%B7%BE%B2%E3%E7%FB%FC%B2%7B%E1%B2%F7%FE%B2%E2%E0%F7%E7%B2%F4%FB%FC%F3%FE%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%B8%BA%A3%BF%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A7%BE%A0%A2%BE%A0%A7%BE%A1%A2%BE%A1%A7%BE%A6%A2%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A7%BE%A4%BE%A5%BE%AA%BE%AB%BE%A3%A3%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%DE%B5%F3%FC%EB%B2%E2%F3%E1%E1%F3%E6%B2%F3%B2%E7%FC%F3%B2%F4%F7%FB%FC%F3%B2%F1%FD%F0%E0%F3%E4%F3%B2%E9%F3%EF%u203E%B2%E2%F7%E0%B2%FA%FD%E0%F3%BC%B2%C1%FB%B2%F3%E3%E7%F7%E1%E6%B2%F3%FC%EB%B2%FF%B5%FA%F3%FC%B2%E2%E7%F8%F3%E6%B2%F7%FE%B2%E1%FD%E7%B2%E7%FC%B2%E9%F0%EF%B7%BE%B2%F3%B2%E3%E7%F3%FC%E6%B2%F1%FD%F0%E0%FD%B2%FE%B5%FA%FD%E0%F3%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%B8%BA%A3%B9%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A0%BE%A3%A7%BE%A0%A2%BE%A0%A7%BE%A1%A2%BE%A1%A7%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%BE%A0%BE%A1%BE%A6%BE%A7%BE%A4%BE%A5%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%DF%B5%FA%F3%FC%B2%E2%E7%F8%F3%E6%B2%F7%FE%B2%E1%FD%E7%B2%E7%FC%B2%E9%F0%EF%B7%BE%B2%FB%B2%F3%E3%E7%F7%E1%E6%B2%F3%FC%EB%B2%F5%E7%F3%FC%EB%FD%B2%E9%F3%EF%B2%F7%E7%E0%FD%E1%B2%F3%FE%B2%FF%F7%E1%BC2%D3%B2%E3%E7%F3%FC%E6%B2%F1%FD%F0%E0%F3%E4%F3%B2%F3%F0%F3%FC%E1%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%BD%BA%A3%B9%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A7%A2%A2%BE%A3%A5%A7%A2%BE%A0%A2%A2%A2%BE%A0%A0%A7%A2%BE%A0%A7%A2%A2%BE%A0%A5%A7%A2%BE%A1%A2%A2%A2%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%BE%A0%BE%A1%BE%A6%BE%A7%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%DA%F7%B2%E2%F3%F5%F3%E6%B2%E9%F3%EF%B2%F7%E7%E0%FD%E1%B2%E2%F7%E0%B2%E7%FC%F3%B2%F1%F3%FF%FB%E1%F7%E6%F3%B2%E0%F7%F0%F3%FB%EA%F3%F6%F3%B2%E7%FC%B2%E9%F0%EF%B7%BC%B2%C3%E7%F3%FC%E6%B2%F1%FD%E1%E6%F3%E4%F3%B2%FB%FC%FB%F1%FB%F3%FE%FF%F7%FC%E6%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%BD%BA%A3%BF%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A0%A2%BE%A0%A3%BE%A0%A0%BE%A0%A1%BE%A0%A6%BE%A0%A7%BE%A0%A4%BE%A0%A5%BE%A0%AA%BE%A0%AB%BE%A1%A2%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A2%BE%A3%A3%BE%A3%A0%BE%A3%A1%BE%A3%A6%BE%A3%A7%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A7%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%C7%FC%F3%B2%F1%F3%FF%FB%E1%F7%E6%F3%B2%E3%E7%F7%B2%E4%F3%FE%B2%A0%A2%u203E%B2%E6%7B%B2%E7%FC%F3%B2%E0%F7%F0%F3%FB%EA%F3%B2%F6%F7%FE%B2%E9%F0%EF%B7%B2%FB%B2%F6%F7%E1%E2%E0%7B%E1%B2%FE%FB%B2%FA%F3%FC%B2%F4%F7%E6%B2%E7%FC%F3%B2%E1%F7%F5%FD%FC%F3%B2%E0%F7%F0%F3%FB%EA%F3%B2%BA%E1%FD%F0%E0%F7%B2%F7%FE%B2%E2%E0%F7%E7%B2%F3%FC%E6%F7%E0%FB%FD%E0%BB%B2%F6%F7%FE%B2%E9%F1%EF%B7%BC%B2%C3%E7%F3%FC%E6%B2%F1%FD%E1%E6%F3%B2%F3%E0%F3%AD%AE%BD%E2%AC%CE%FC%AE%E2%AC%AE%F7%FF%AC%DC%FD%B2%F7%E1%F1%E0%FB%F5%E7%FB%E1%B2%F7%FE%B2%E1%7F%FF%F0%FD%FE%B2%F6%F7%FE%B2%B7%AE%BD%F7%FF%AC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%BA%A3%BF%E9%F0%EF%BD%A3%A2%A2%BB%B8%BA%A3%BF%E9%F3%EF%BD%A3%A2%A2%BB%B8%A0%A2%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%F4%F3%FE%E1%F7%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A7%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%D7%FC%B2%D4%E0%EB%B2%E4%F3%B2%FB%FC%F5%E0%F7%E1%E1%F3%E0%B2%E9%F3%EF%u203E%B2%F3%FE%B2%F0%F3%FC%F1%BE%B2%FB%B2%F6%F7%E1%E2%E0%7B%E1%BE%B2%F7%E1%B2%E4%F3%B2%E2%F3%E1%E1%F3%E0%B2%F1%FD%FC%F5%F7%FE%F3%E6%B2%E9%F0%EF%B2%F3%FC%EB%E1%BC%B2%C1%FB%B2%F7%FE%B2%F0%F3%FC%F1%B2%E4%F3%B2%F4%F7%E0%B2%E7%FC%B2%FB%FC%E6%F7%E0z%E1%B2%F6%F7%FE%B2%E9%F1%EF%B7%B2%F1%F3%F6%F3%B2%F3%FC%EB%BE%B2%E3%E7%F3%FC%E6%E1%B2%F6%F7%B2%F6%FB%FC%F7%E0%E1%B2%E6%7B%B2%F3%E0%F3%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%B8%BA%A3%B9%E9%F1%EF%BD%A3%A2%A2%BB%CC%E9%F0%EF%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A2%BE%A3%A3%BE%A3%A0%BE%A3%A1%BE%A3%A6%BE%A3%A7%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F1%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%BE%A0%BE%A1%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A2%A2%A2%B0%EF%CF%EF%CF%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E1%F1%FD%E0%FF%B0%A8%E9%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D6%F7%E1%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%EF%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E0%E0%FD%E0%D3%F0%E1%FD%FE%E7%E6%F7%B0%A8%A2%BC%A2%A7%BE%B0%F7%E0%E0%FD%E0%C0%F7%FE%F3%E6%FB%E4%F7%B0%A8%A2%BE%B0%F7%E0%E0%FD%E0%C6%EB%E2%F7%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%A1%A0%A4%AB%A7%A2%A0%A4%BF%A4%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%E0%F3%B2%F7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B2%FC%FD%B2%7B%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D4%FB%B2%F6%F7%FE%B2%F8%FD%F1%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D5%F7%FC%FB%F3%FE%BC%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%7B%E1%A8%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%DA%F7%E7%B2%FD%F0%E6%FB%FC%F5%E7%E6%B2%B7%A3%B2%F7%FC%F1%F7%E0%E6%E1%B2%B2%FB%B2%B7%A0%B2%F7%E0%E0%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%B2%F6%F7%B2%FC%FD%E7%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%C0%F7%E3%E7%F7%E0%FB%E6%B2%F7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%B2%E3%E7%F7%B2%F0%E7%E1%F1%F3%E4%F7%E1%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E0%F7%FF%B2%F3%E3%E7%7F%B2%E2%F7%E0%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D7%FC%F1%F7%E0%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%F7%FF%E2%E1%B2%FE%7F%FF%FB%E6%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%E7%E0%E6%B2%F6%F7%B2%FE%F3%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%FD%FF%F0%E0%F7%B2%F6%F7%B2%E3n%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C3n%F7%E1%E6%FBa%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%D0%7B%B3%B2%EE%B2%DF%FD%FE%E6%B2%F0%7B%B3%B2%EE%B2%D5%F7%FC%FB%F3%FE%B3%B2%EE%B2%D7%EA%F1%F7%FE%B2%25%B2%FE%F7%FC%E6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%F7%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DC%FD%B2%F7%E0%F3%B2%F3%FB%EA%7F%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DC%FD%B2%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DA%FD%B2%E1%F7%FC%E6%FD%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%D1%F3%FE%B2%F3%FE%FF%F7%FC%EB%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%FD%E1%E6%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%E1%B2%E2%F7%E0%B2%FD%F0%E6%F7%FC%FB%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%BC%B2%C6%FD%E0%FC%F3%BF%FA%FD%B2%F3%B2%E2%E0%FD%E4%F3%E0%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F7%E7%B2%F7%FE%B2%F8%FD%F1%B2%F3%F0%F3%FC%E1%B2%F6%F7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%FC%FD%B2%F7%E1%B2%E2%FD%E6%B2%F6%F7%E1%F3%E0%B2%F8%F3%B2%E3%E7%F7%B2%F3%E3%E7%F7%E1%E6%F3%B2%E2r%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%E1%E6%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%E1%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%E1%B2%FE%F3%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2%E1%F7%E4%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%DC%FD%FF%7B%E1%B2%E2%FD%F6%F7%E7%B2%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F3%E7%E6%FD%FFr%E6%FB%F1%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2%F6%F3%E0%E0%F7%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F6%F7%E1%F3%F6%F3%B2%7B%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%D8%F3%B2%FA%F7%E7%B2%F4%F7%E6%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%FD%F6%F7%E7%B2%F4%F7%E0%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%C2%E0%F7%E4%FB%FD%E7%E1%B0%A8%B0%D3%FC%E6%F7%E0%FB%FD%E0%B0%BE%B0%FF%E1%F5%DC%F7%EA%E6%B0%A8%B0%C1%F7%F5n%F7%FC%E6%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C3n%F7%E1%E6%FBa%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%F7%B3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%C6%F3%FC%F1%F3%B0%BE%B0%FF%E1%F5%DC%FD%E6%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D6%FB%E1%F1%E7%FE%E2%F7%E7%BC%BC%BC%B2%FE%F3%B2%E0%F7%E1%E2%FD%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%7B%E1%A8%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%E4%F3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F7%E7%B2%F4%FB%FC%F3%FE%FB%E6%E8%F3%E6%B2%F7%FE%B2%F8%FD%F1%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%C0%F7%E6%E0%FD%F3%F1%F1%FBa%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%D1%F3%E2%B2%FB%FF%F3%E6%F5%F7%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%E1%F3%B0%BE%B0%FF%E1%F5%D6%E7%E2%FE%FB%F1%F3%E6%F7%D3%FC%E1%E5%F7%E0%B0%A8%B0%DC%FD%B2%F7%E1%B2%E2%FD%F6%F7%FC%B2%F6%FD%FC%F3%E0%B2%E1%FD%FE%E7%F1%FB%FD%FC%E1%B2%E0%F7%E2%F7%E6%FB%F6%F7%E1%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%B2%FB%FC%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%C1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%A8%B2%DC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E0%FD%F0%FE%F7%FF%F7%E1%B2%F6%F7%B2%FF%F3%E6%F7%FFr%E6%FB%E3%E7%F7%E1%B0%EF%EF&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;0&quot;&gt;&lt;p&gt;Una camiseta val {a}€. Si fem una rebaixa del {b}%, quin és el preu final?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;1&quot;&gt;&lt;p&gt;L'any passat a una feina cobrava {a}€ per hora. Si aquest any m'han pujat el sou un {b}%, a quant cobro l'hora?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;2&quot;&gt;&lt;p&gt;M'han pujat el sou un {b}%, i aquest any guanyo {a} euros al mes. A quant cobrava abans?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;3&quot;&gt;&lt;p&gt;He pagat {a} euros per una camiseta rebaixada un {b}%. Quant costava inicialment?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;4&quot;&gt;&lt;p&gt;Una camiseta que val 20€ té una rebaixa del {b}% i després li han fet una segona rebaixa (sobre el preu anterior) del {c}%. Quant costa ara?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;No escriguis el símbol del %&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;5&quot;&gt;&lt;p&gt;En Fry va ingressar {a}€ al banc, i després, es va passar congelat {b} anys. Si el banc va fer un interès del {c}% cada any, quants de diners té ara?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;mathproblems-bns js-hidden&quot;&gt;El vostre navegador no és compatible amb aquesta eina.&lt;/div&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;mathproblems-IDevice&quot;&gt;&lt;div class=&quot;mathproblems-feedback-game js-hidden&quot;&gt;&lt;/div&gt;&lt;div class=&quot;mathproblems-instructions mathproblems-instructions&quot;&gt;&lt;p&gt;Resoleu el següents problemes matemàtics, si tenen decimals, arrodoneix al segon.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;mathproblems-DataGame js-hidden&quot;&gt;%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DF%F3%E6%FA%C2%E0%FD%F0%FE%F7%FF%E1%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%F1%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%FD%FE%F7%E7%B2%F7%FE%B2%E1%F7%F5n%F7%FC%E6%E1%B2%E2%E0%FD%F0%FE%F7%FF%F7%E1%B2%FF%F3%E6%F7%FFr%E6%FB%F1%E1%BE%B2%E1%FB%B2%E6%F7%FC%F7%FC%B2%F6%F7%F1%FB%FF%F3%FE%E1%BE%B2%F3%E0%E0%FD%F6%FD%FC%F7%FB%EA%B2%F3%FE%B2%E1%F7%F5%FD%FC%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%C9%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%C7%FC%F3%B2%F1%F3%FF%FB%E1%F7%E6%F3%B2%E4%F3%FE%B2%E9%F3%EF%u203E%BC%B2%C1%FB%B2%F4%F7%FF%B2%E7%FC%F3%B2%E0%F7%F0%F3%FB%EA%F3%B2%F6%F7%FE%B2%E9%F0%EF%B7%BE%B2%E3%E7%FB%FC%B2%7B%E1%B2%F7%FE%B2%E2%E0%F7%E7%B2%F4%FB%FC%F3%FE%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%B8%BA%A3%BF%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A7%BE%A0%A2%BE%A0%A7%BE%A1%A2%BE%A1%A7%BE%A6%A2%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A7%BE%A4%BE%A5%BE%AA%BE%AB%BE%A3%A3%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%DE%B5%F3%FC%EB%B2%E2%F3%E1%E1%F3%E6%B2%F3%B2%E7%FC%F3%B2%F4%F7%FB%FC%F3%B2%F1%FD%F0%E0%F3%E4%F3%B2%E9%F3%EF%u203E%B2%E2%F7%E0%B2%FA%FD%E0%F3%BC%B2%C1%FB%B2%F3%E3%E7%F7%E1%E6%B2%F3%FC%EB%B2%FF%B5%FA%F3%FC%B2%E2%E7%F8%F3%E6%B2%F7%FE%B2%E1%FD%E7%B2%E7%FC%B2%E9%F0%EF%B7%BE%B2%F3%B2%E3%E7%F3%FC%E6%B2%F1%FD%F0%E0%FD%B2%FE%B5%FA%FD%E0%F3%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%B8%BA%A3%B9%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A0%BE%A3%A7%BE%A0%A2%BE%A0%A7%BE%A1%A2%BE%A1%A7%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%BE%A0%BE%A1%BE%A6%BE%A7%BE%A4%BE%A5%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%DF%B5%FA%F3%FC%B2%E2%E7%F8%F3%E6%B2%F7%FE%B2%E1%FD%E7%B2%E7%FC%B2%E9%F0%EF%B7%BE%B2%FB%B2%F3%E3%E7%F7%E1%E6%B2%F3%FC%EB%B2%F5%E7%F3%FC%EB%FD%B2%E9%F3%EF%B2%F7%E7%E0%FD%E1%B2%F3%FE%B2%FF%F7%E1%BC%B4%FC%F0%E1%E2%A9%D3%B2%E3%E7%F3%FC%E6%B2%F1%FD%F0%E0%F3%E4%F3%B2%F3%F0%F3%FC%E1%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%BD%BA%A3%B9%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A7%A2%A2%BE%A3%A5%A7%A2%BE%A0%A2%A2%A2%BE%A0%A0%A7%A2%BE%A0%A7%A2%A2%BE%A0%A5%A7%A2%BE%A1%A2%A2%A2%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%BE%A0%BE%A1%BE%A6%BE%A7%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A2%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%DA%F7%B2%E2%F3%F5%F3%E6%B2%E9%F3%EF%B2%F7%E7%E0%FD%E1%B2%E2%F7%E0%B2%E7%FC%F3%B2%F1%F3%FF%FB%E1%F7%E6%F3%B2%E0%F7%F0%F3%FB%EA%F3%F6%F3%B2%E7%FC%B2%E9%F0%EF%B7%BC%B2%C3%E7%F3%FC%E6%B2%F1%FD%E1%E6%F3%E4%F3%B2%FB%FC%FB%F1%FB%F3%FE%FF%F7%FC%E6%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%BD%BA%A3%BF%E9%F0%EF%BD%A3%A2%A2%BB%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%C9%E9%B0%FC%F3%FF%F7%B0%A8%B0%F3%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A0%A2%BE%A0%A3%BE%A0%A0%BE%A0%A1%BE%A0%A6%BE%A0%A7%BE%A0%A4%BE%A0%A5%BE%A0%AA%BE%A0%AB%BE%A1%A2%B0%EF%BE%E9%B0%FC%F3%FF%F7%B0%A8%B0%F0%B0%BE%B0%E4%F3%FE%E7%F7%B0%A8%B0%A3%A2%BE%A3%A3%BE%A3%A0%BE%A3%A1%BE%A3%A6%BE%A3%A7%B0%EF%CF%EF%BE%E9%B0%FF%FB%FC%B0%A8%A3%BE%B0%FF%F3%EA%B0%A8%A3%A7%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%C7%FC%F3%B2%F1%F3%FF%FB%E1%F7%E6%F3%B2%E3%E7%F7%B2%E4%F3%FE%B2%A0%A2%u203E%B2%E6%7B%B2%E7%FC%F3%B2%E0%F7%F0%F3%FB%EA%F3%B2%F6%F7%FE%B2%E9%F0%EF%B7%B2%FB%B2%F6%F7%E1%E2%E0%7B%E1%B2%FE%FB%B2%FA%F3%FC%B2%F4%F7%E6%B2%E7%FC%F3%B2%E1%F7%F5%FD%FC%F3%B2%E0%F7%F0%F3%FB%EA%F3%B2%BA%E1%FD%F0%E0%F7%B2%F7%FE%B2%E2%E0%F7%E7%B2%F3%FC%E6%F7%E0%FB%FD%E0%BB%B2%F6%F7%FE%B2%E9%F3%EF%B7%BC%B2%C3%E7%F3%FC%E6%B2%F1%FD%E1%E6%F3%B2%F3%E0%F3%AD%AE%BD%E2%AC%CE%FC%AE%E2%AC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%BA%A3%BF%E9%F0%EF%BD%A3%A2%A2%BB%B8%BA%A3%BF%E9%F3%EF%BD%A3%A2%A2%BB%B8%A0%A2%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%F4%F3%FE%E1%F7%EF%BE%E9%B0%FF%FB%FC%B0%A8%AA%BE%B0%FF%F3%EA%B0%A8%A3%A7%BE%B0%F6%F7%F1%FB%FF%F3%FE%E1%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%A2%BE%B0%F6%F7%F4%FB%FC%F7%F6%C4%F3%E0%FB%F3%F0%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%FB%FC%F5%B0%A8%B0%AE%E2%AC%D7%FC%B2%D4%E0%EB%B2%E4%F3%B2%FB%FC%F5%E0%F7%E1%E1%F3%E0%B2%E9%F3%EF%u203E%B2%F3%FE%B2%F0%F3%FC%F1%BE%B2%FB%B2%F6%F7%E1%E2%E0%7B%E1%BE%B2%F7%E1%B2%E4%F3%B2%E2%F3%E1%E1%F3%E0%B2%F1%FD%FC%F5%F7%FE%F3%E6%B2%A3%A2%A2%A2%B2%F3%FC%EB%E1%BC%B2%C1%FB%B2%F7%FE%B2%F0%F3%FC%F1%B2%E4%F3%B2%F4%F7%E0%B2%E7%FC%B2%FB%FC%E6%F7%E0z%E1%B2%F6%F7%FE%B2%A3%B7%B2%F1%F3%F6%F3%B2%F3%FC%EB%BE%B2%E3%E7%F3%FC%E6%E1%B2%F6%F7%B2%F6%FB%FC%F7%E0%E1%B2%E6%7B%B2%F3%E0%F3%AD%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%FD%E0%FF%E7%FE%F3%B0%A8%B0%E9%F3%EF%B8%A0%A2%AB%A7%AB%BC%A3%A7%A7%A4%A6%B0%BE%B0%F6%FD%FF%F3%FB%FC%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E1%F1%FD%E0%FF%B0%A8%E9%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D6%F7%E1%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%EF%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E0%E0%FD%E0%D3%F0%E1%FD%FE%E7%E6%F7%B0%A8%A2%BC%A2%A7%BE%B0%F7%E0%E0%FD%E0%C0%F7%FE%F3%E6%FB%E4%F7%B0%A8%A2%BE%B0%F7%E0%E0%FD%E0%C6%EB%E2%F7%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%A1%A0%A4%AB%A7%A2%A0%A4%BF%A4%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%E0%F3%B2%F7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B2%FC%FD%B2%7B%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D4%FB%B2%F6%F7%FE%B2%F8%FD%F1%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D5%F7%FC%FB%F3%FE%BC%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%7B%E1%A8%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%DA%F7%E7%B2%FD%F0%E6%FB%FC%F5%E7%E6%B2%B7%A3%B2%F7%FC%F1%F7%E0%E6%E1%B2%B2%FB%B2%B7%A0%B2%F7%E0%E0%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%B2%F6%F7%B2%FC%FD%E7%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%C0%F7%E3%E7%F7%E0%FB%E6%B2%F7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%B2%E3%E7%F7%B2%F0%E7%E1%F1%F3%E4%F7%E1%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E0%F7%FF%B2%F3%E3%E7%7F%B2%E2%F7%E0%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D7%FC%F1%F7%E0%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%F7%FF%E2%E1%B2%FE%7F%FF%FB%E6%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%E7%E0%E6%B2%F6%F7%B2%FE%F3%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%FD%FF%F0%E0%F7%B2%F6%F7%B2%E3n%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C3n%F7%E1%E6%FBa%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%D0%7B%B3%B2%EE%B2%DF%FD%FE%E6%B2%F0%7B%B3%B2%EE%B2%D5%F7%FC%FB%F3%FE%B3%B2%EE%B2%D7%EA%F1%F7%FE%B2%25%B2%FE%F7%FC%E6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%F7%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DC%FD%B2%F7%E0%F3%B2%F3%FB%EA%7F%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DC%FD%B2%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DA%FD%B2%E1%F7%FC%E6%FD%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%D1%F3%FE%B2%F3%FE%FF%F7%FC%EB%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%FD%E1%E6%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%E1%B2%E2%F7%E0%B2%FD%F0%E6%F7%FC%FB%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%BC%B2%C6%FD%E0%FC%F3%BF%FA%FD%B2%F3%B2%E2%E0%FD%E4%F3%E0%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F7%E7%B2%F7%FE%B2%F8%FD%F1%B2%F3%F0%F3%FC%E1%B2%F6%F7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%FC%FD%B2%F7%E1%B2%E2%FD%E6%B2%F6%F7%E1%F3%E0%B2%F8%F3%B2%E3%E7%F7%B2%F3%E3%E7%F7%E1%E6%F3%B2%E2r%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%E1%E6%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%E1%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%E1%B2%FE%F3%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2%E1%F7%E4%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%DC%FD%FF%7B%E1%B2%E2%FD%F6%F7%E7%B2%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F3%E7%E6%FD%FFr%E6%FB%F1%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2%F6%F3%E0%E0%F7%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F6%F7%E1%F3%F6%F3%B2%7B%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%D8%F3%B2%FA%F7%E7%B2%F4%F7%E6%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%FD%F6%F7%E7%B2%F4%F7%E0%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%C2%E0%F7%E4%FB%FD%E7%E1%B0%A8%B0%D3%FC%E6%F7%E0%FB%FD%E0%B0%BE%B0%FF%E1%F5%DC%F7%EA%E6%B0%A8%B0%C1%F7%F5n%F7%FC%E6%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C3n%F7%E1%E6%FBa%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%F7%B3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%C6%F3%FC%F1%F3%B0%BE%B0%FF%E1%F5%DC%FD%E6%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D6%FB%E1%F1%E7%FE%E2%F7%E7%BC%BC%BC%B2%FE%F3%B2%E0%F7%E1%E2%FD%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%7B%E1%A8%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%E4%F3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F7%E7%B2%F4%FB%FC%F3%FE%FB%E6%E8%F3%E6%B2%F7%FE%B2%F8%FD%F1%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%C0%F7%E6%E0%FD%F3%F1%F1%FBa%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%D1%F3%E2%B2%FB%FF%F3%E6%F5%F7%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%E1%F3%B0%BE%B0%FF%E1%F5%D6%E7%E2%FE%FB%F1%F3%E6%F7%D3%FC%E1%E5%F7%E0%B0%A8%B0%DC%FD%B2%F7%E1%B2%E2%FD%F6%F7%FC%B2%F6%FD%FC%F3%E0%B2%E1%FD%FE%E7%F1%FB%FD%FC%E1%B2%E0%F7%E2%F7%E6%FB%F6%F7%E1%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%B2%FB%FC%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%C1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%A8%B2%DC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E0%FD%F0%FE%F7%FF%F7%E1%B2%F6%F7%B2%FF%F3%E6%F7%FFr%E6%FB%E3%E7%F7%E1%B0%EF%EF&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;0&quot;&gt;&lt;p&gt;Una camiseta val {a}€. Si fem una rebaixa del {b}%, quin és el preu final?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;1&quot;&gt;&lt;p&gt;L'any passat a una feina cobrava {a}€ per hora. Si aquest any m'han pujat el sou un {b}%, a quant cobro l'hora?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;2&quot;&gt;&lt;p&gt;M'han pujat el sou un {b}%, i aquest any guanyo {a} euros al mes.&amp;nbsp;A quant cobrava abans?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;3&quot;&gt;&lt;p&gt;He pagat {a} euros per una camiseta rebaixada un {b}%. Quant costava inicialment?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;4&quot;&gt;&lt;p&gt;Una camiseta que val 20€ té una rebaixa del {b}% i després li han fet una segona rebaixa (sobre el preu anterior) del {a}%. Quant costa ara?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;js-hidden mathproblems-LinkWordings&quot; data-id=&quot;5&quot;&gt;&lt;p&gt;En Fry va ingressar {a}€ al banc, i després, es va passar congelat 1000 anys. Si el banc va fer un interès del 1% cada any, quants de diners té ara?&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;mathproblems-bns js-hidden&quot;&gt;El vostre navegador no és compatible amb aquesta eina.&lt;/div&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -6796,7 +6796,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                 <string role="key" value="_storageName"></string>
                 <string value="Examen de Mostra.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Examen de Mostra.pdf"></string>
+                <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Examen de Mostra.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="c659c1db91e722bd23985cab5c17d065"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7453,7 +7453,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="910"></int>
+                     <int value="954"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7467,7 +7467,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="59_141_2.6"></unicode>
+                   <unicode value="59_141_2.9"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="118">
                     <dictionary>
@@ -7478,7 +7478,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_143732.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_143732.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_143732.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1f566ad65e6adfff8574fa7428ecefbb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7505,7 +7505,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="911"></int>
+                     <int value="955"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7519,7 +7519,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="59_141_2.7"></unicode>
+                   <unicode value="59_141_2.10"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="119">
                     <dictionary>
@@ -7530,7 +7530,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_144202.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_144202.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_144202.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d32399e8ce02d23f642032e6406356fe"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7557,7 +7557,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="912"></int>
+                     <int value="956"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7571,7 +7571,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="59_141_2.8"></unicode>
+                   <unicode value="59_141_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="120">
                     <dictionary>
@@ -7582,7 +7582,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_144554.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_144554.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_144554.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="672b98802a4862b62bb22a881cc463bb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7611,7 +7611,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="9"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
               <reference key="105"></reference>
              </dictionary>
@@ -7797,7 +7797,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="913"></int>
+                     <int value="957"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7811,7 +7811,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="61_143_2.2"></unicode>
+                   <unicode value="61_143_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="123">
                     <dictionary>
@@ -7822,7 +7822,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_154336.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_154336.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_154336.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="daa8bec6e9bd7a51ee8f85320c8d5f9b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7851,7 +7851,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="105"></reference>
              </dictionary>
@@ -8088,7 +8088,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="914"></int>
+                     <int value="958"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8102,7 +8102,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.14"></unicode>
+                   <unicode value="62_144_2.22"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="126">
                     <dictionary>
@@ -8113,7 +8113,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_161722.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_161722.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_161722.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2d876de84bd8c69b5c205353eb60b0ca"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8140,7 +8140,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="915"></int>
+                     <int value="959"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8154,7 +8154,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.15"></unicode>
+                   <unicode value="62_144_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="127">
                     <dictionary>
@@ -8165,7 +8165,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_162125.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_162125.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_162125.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c2d3a1d54bd4c42f4cdb5dbbf00f8e65"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8192,7 +8192,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="916"></int>
+                     <int value="960"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8206,7 +8206,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.16"></unicode>
+                   <unicode value="62_144_2.24"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="128">
                     <dictionary>
@@ -8217,7 +8217,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_162125.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_162125.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_162125.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c2d3a1d54bd4c42f4cdb5dbbf00f8e65"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8244,7 +8244,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="917"></int>
+                     <int value="961"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8258,7 +8258,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.17"></unicode>
+                   <unicode value="62_144_2.25"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="129">
                     <dictionary>
@@ -8269,7 +8269,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_162912.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_162912.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_162912.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="7be3b050209968c2381bcce9f326a938"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8296,7 +8296,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="918"></int>
+                     <int value="962"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8310,7 +8310,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.18"></unicode>
+                   <unicode value="62_144_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="130">
                     <dictionary>
@@ -8321,7 +8321,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_163318.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_163318.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_163318.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c015da57186656100af51eed062e16df"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8348,7 +8348,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="919"></int>
+                     <int value="963"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8362,7 +8362,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.19"></unicode>
+                   <unicode value="62_144_2.27"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="131">
                     <dictionary>
@@ -8373,7 +8373,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_163838.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_163838.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_163838.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="7188cddaf95e3dfed24bf3a3627d1497"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8400,7 +8400,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="920"></int>
+                     <int value="964"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8414,7 +8414,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.20"></unicode>
+                   <unicode value="62_144_2.28"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="132">
                     <dictionary>
@@ -8425,7 +8425,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_164135.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_164135.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_164135.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d93a1a8c4abc2976a564a6e245ccd362"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8452,7 +8452,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="921"></int>
+                     <int value="965"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8466,7 +8466,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="62_144_2.21"></unicode>
+                   <unicode value="62_144_2.29"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="133">
                     <dictionary>
@@ -8477,7 +8477,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-26_164135.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmptry31w\\Captura_de_pantalla_2025-03-26_164135.png"></string>
+                     <string value="c:\\users\\pepmv\\appdata\\local\\temp\\tmplpn9nm\\Captura_de_pantalla_2025-03-26_164135.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d93a1a8c4abc2976a564a6e245ccd362"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8506,7 +8506,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="22"></int>
+              <int value="30"></int>
               <string role="key" value="parentNode"></string>
               <reference key="105"></reference>
              </dictionary>
@@ -8723,7 +8723,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="105"></reference>
+  <reference key="76"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
